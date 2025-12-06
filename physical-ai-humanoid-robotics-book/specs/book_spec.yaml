@@ -1,0 +1,36 @@
+book:
+  title: Physical AI & Humanoid Robotics
+  description: A comprehensive textbook for learning physical AI, humanoid robotics design, and control.
+  chapters:
+    - id: introduction
+      title: Introduction
+      sections:
+        - id: overview
+          title: Overview of Physical AI
+        - id: objectives
+          title: Learning Objectives
+    - id: fundamentals
+      title: Fundamentals of Robotics
+      sections:
+        - id: robot_types
+          title: Types of Robots
+        - id: components
+          title: Components of a Robot
+    - id: kinematics
+      title: Robot Kinematics
+      sections:
+        - id: forward_kinematics
+          title: Forward Kinematics
+        - id: inverse_kinematics
+          title: Inverse Kinematics
+    - id: sensors_actuators
+      title: Sensors and Actuators
+    - id: ai_control
+      title: AI-Based Robot Control
+    - id: humanoid_design
+      title: Humanoid Robot Design
+    - id: robot_learning
+      title: Robot Learning and Adaptation
+    - id: appendix
+      title: Appendix
+      
