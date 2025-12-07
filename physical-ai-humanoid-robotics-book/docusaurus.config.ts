@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   url: 'https://rameen-danish.github.io',
-  baseUrl: '/physical-ai-humanoid-robotics-book/',
+  baseUrl: '/physical-ai-and-humanoid-robotics-book/',
 
   organizationName: 'rameen-danish',
-  projectName: 'physical-ai-humanoid-robotics-book',
+  projectName: 'physical-ai-and-humanoid-robotics-book',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
